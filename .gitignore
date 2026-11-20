@@ -1,0 +1,21 @@
+# CMake / Visual Studio artifacts
+build/
+build-tests/
+.build/
+out/
+.vs/
+CMakeFiles/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.asi
+*.dll
+*.log
+
+build-win32/
+dist/
+__pycache__/
+*.pyc
+*:Zone.Identifier
